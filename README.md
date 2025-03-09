@@ -1,4 +1,4 @@
-# Dynamic To-Do App
+# Dynamic To-Do List App
 
 This is a simple to-do application built using HTML, CSS, and JavaScript. It allows users to add tasks, mark them as completed, view pending and completed tasks, and clear all tasks.
 
@@ -20,7 +20,7 @@ This is a simple to-do application built using HTML, CSS, and JavaScript. It all
 
 1.  **Clone or Download the Repository:**
     ```bash
-    git clone [repository URL]
+    git clone [https://github.com/Rajkumaran-S/Dynamic-ToDo-List-App.git]
     ```
     or download the ZIP archive and extract it.
 
